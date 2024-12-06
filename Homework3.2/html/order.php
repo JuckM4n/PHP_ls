@@ -24,7 +24,7 @@ $data = ['address' => $address];
 $user = $burger->getUserByEmail($email);
 
 if ($user) {
-    $userId = $user-['id'];
+    $userId = $user['id'];
     $burger->incOrders($user['id']);
     $orderNumber = $user['orders_count'] + 1;
 } else {
