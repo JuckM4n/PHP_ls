@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48168a89-b72b-43e9-a0d6-d952bd262cb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Controller/Admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Controller/Api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Controller/Blog.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Controller/Login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Model/Message.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Model/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/View/blog.phtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/View/login.phtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/View/user/list.phtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/View/user/profile.phtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/AbstractController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/Application.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/Db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/Error404Exception.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/RedirectException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/Route.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/Session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/View.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/base/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +47,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "PHP Script.index.php.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "week3",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/My documents/Recovery/Desktop/Программирование/loftschool/PHP_ls",
@@ -82,9 +68,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\My documents\Recovery\Desktop\Программирование\loftschool\PHP_ls\html" />
       <recent name="D:\My documents\Recovery\Desktop\Программирование\loftschool\PHP_ls" />
+      <recent name="D:\My documents\Recovery\Desktop\Программирование\loftschool\PHP_ls\html" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
