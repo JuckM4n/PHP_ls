@@ -12,7 +12,7 @@ $burger = new Burger();
 
 $email = $_POST['email'];
 $name = $_POST['name'];
-$addressFields = $_POST['street', 'home', 'part', 'appt', 'floor'];
+$addressFields = ['street', 'home', 'part', 'appt', 'floor'];
 $address = '';
 foreach ($_POST as $field => $value) {
     if ($value && in_array($field, $addressFields)) {
