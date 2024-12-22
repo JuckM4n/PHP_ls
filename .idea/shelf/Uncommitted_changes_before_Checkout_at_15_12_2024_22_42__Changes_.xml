@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_15_12_2024_22_42_[Changes]" date="1734291776070" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_12_2024_22_42_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 15.12.2024 22:42 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="vendor/swiftmailer/swiftmailer/tests/_samples/files/textfile.zip" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_12_2024_22_42_[Changes]/textfile.zip" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="vendor/swiftmailer/swiftmailer/tests/_samples/files/swiftmailer.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_12_2024_22_42_[Changes]/swiftmailer.png" />
+  </binary>
+</changelist>
